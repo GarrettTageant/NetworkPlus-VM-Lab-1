@@ -69,4 +69,5 @@ ChatGPT also told me that using `cmd.exe` to statically configure IPv4 settings 
     - Check for the following:
       - ServerAddresses - {1.1.1.1, 8.8.8.8}
 
+
 In the future, I will automate confirming network changes with a PowerShell script. For now, these manual checks are good practice.
